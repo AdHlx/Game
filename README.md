@@ -1,6 +1,3 @@
-# Fountainhead
-Fountainhead Engine
-=======
 # Game
 Game demo made by Fountainhead Engine
 
